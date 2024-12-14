@@ -1,0 +1,17 @@
+.note{
+    background-color: #FFDADA;
+    height: 150px;
+    border-radius: 10px;
+    padding: 2rem;
+    font-family: 'Lexend Deca';
+    cursor: pointer;
+}
+
+.note .note-header h3{
+    margin-bottom: 1rem;
+    color: #000;
+    font-weight: bold;
+}
+.note-content{
+    font-size: 1.2rem;
+}
